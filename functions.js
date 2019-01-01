@@ -2,3 +2,7 @@
 //**NOTE: The retuned value MUST be a string** 
 
 //your code here
+
+//A function has two parts:
+//an definition and an invocation
+
